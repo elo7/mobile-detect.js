@@ -2,7 +2,7 @@
 /*global module:false, define:false*/
 
 (function (define, undefined) {
-define(function () {
+define('mobile-detect', [], function () {
     'use strict';
 
     var impl = {};
